@@ -1,4 +1,4 @@
-<img src="picture.jpg" s=200/>
+<img src="picture.jpg" width="200">
 
 
 ## Welcome to GitHub Pages
