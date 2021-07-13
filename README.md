@@ -3,9 +3,10 @@
 ## About Me
 I love solving mysteries about our solar system and exoplanetary systems and discovering new worlds using orbital dynamics and large telescopes. Currently, I am a PhD Student at Northern Arizona University studying Astronomy and Planetary Science working with Professor Chad Trujillo. My dissertation is focused on the relationship between Extreme Trans-Neptunian Objects and a hypothesized distant giant planet in the outer solar system, Planet X, and on improving the efficeicency of orbital characterization for directly imaged exoplanets.
 
-As an undergraduate, I majored in Physics and Astronomy at Brigham Young University (with minors in Math, Geology, and Spanish) and worked with Professor Jani Radebaugh on modeling the thermally driven migration of meteorites burried in Antarctic ice. I also worked on improving the orbital fits for the moons of the dwarf planet Haumea with Professor Darin Ragozzine and helped in curriculum and equpment development for undergraduate physics labs.
+As an undergraduate, I majored in Physics and Astronomy at Brigham Young University (with minors in Math, Geology, and Spanish) and worked with Professor Jani Radebaugh on modeling the thermally driven migration of meteorites burried in Antarctic ice. I also worked on improving the orbital fits for the moons of the dwarf planet Haumea with Professor Darin Ragozzine and worked curriculum and equpment development for undergraduate physics labs.
 
 I also enjoy sharing my enthusiasm for astronomy with students through teaching, mentoring, and outreach. When I'm not working, I spend most of my time with my wife and two kids hiking, disc golfing, and playing board games.
 
 ## Research
-My research is primarily focused on constraining planet location using orbital dynamics and observations. 
+My research is primarily focused on constraining planet location using orbital dynamics and observations. I am particularly interested in a hypothetical giant planet, Planet X, orbiting deep in the far reaches of our solar system. I recently published a [paper](https://iopscience.iop.org/article/10.3847/1538-3881/abfb6f/pdf) showing how Planet X can cause the outer solar system perihelion gap (an orbital feature of the most distant Trans-Neptunian Objects) and I am cuurrently working on applying the techniques I developed in that paper to constrain the orbit of Planet X. You can watch my presentation on this work from a recent conference [here](https://vimeo.com/545351933).
+
