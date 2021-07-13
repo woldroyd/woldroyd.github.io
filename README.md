@@ -12,4 +12,4 @@ My research is primarily focused on constraining planet location using orbital d
 
 I am also developing a technique for optimizing revisit cadences for directly imaged exoplanets. This will save time for planet characterization that would have otherwise been used for orbit determination. A paper detailing the specifics of this work is in progress. Additional projects I am involved with include: the Deep Ecliptic Exploration Project (DEEP, an observation survey set to discover thousands of new TNOs); constraining the space weathering rate of asteroid families via spectral slope modeling; searching for surface features on large TNOs using the Large Binocular Telescope (PI); the Legacy Survey of Space and Time Solar System Science Collaboration; and follow up observation for discoveries of new distant TNOs and objects showing cometary activity.
 
-Please see my [CV]() for more details.
+Please see my [CV](cv_july_2021.pdf) for more details.
