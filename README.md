@@ -1,40 +1,11 @@
 <img src="picture.jpg" width="200">
 
+## About Me
+I love solving mysteries about our solar system and exoplanetary systems and discovering new worlds using orbital dynamics and large telescopes. Currently, I am a PhD Student at Northern Arizona University studying Astronomy and Planetary Science working with Professor Chad Trujillo. My dissertation is focused on the relationship between Extreme Trans-Neptunian Objects and a hypothesized distant giant planet in the outer solar system, Planet X, and on improving the efficeicency of orbital characterization for directly imaged exoplanets.
 
-## Welcome to GitHub Pages
+As an undergraduate, I majored in Physics and Astronomy at Brigham Young University (with minors in Math, Geology, and Spanish) and worked with Professor Jani Radebaugh on modeling the thermally driven migration of meteorites burried in Antarctic ice. I also worked on improving the orbital fits for the moons of the dwarf planet Haumea with Professor Darin Ragozzine and helped in curriculum and equpment development for undergraduate physics labs.
 
-You can use the [editor on GitHub](https://github.com/woldroyd/woldroyd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I also enjoy sharing my enthusiasm for astronomy with students through teaching, mentoring, and outreach. When I'm not working, I spend most of my time with my wife and two kids hiking, disc golfing, and playing board games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woldroyd/woldroyd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Research
+My research is primarily focused on constraining planet location using orbital dynamics and observations. 
