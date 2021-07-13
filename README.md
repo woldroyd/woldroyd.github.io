@@ -8,5 +8,12 @@ As an undergraduate, I majored in Physics and Astronomy at Brigham Young Univers
 I also enjoy sharing my enthusiasm for astronomy with students through teaching, mentoring, and outreach. When I'm not working, I spend most of my time with my wife and two kids hiking, disc golfing, and playing board games.
 
 ## Research
-My research is primarily focused on constraining planet location using orbital dynamics and observations. I am particularly interested in a hypothetical giant planet, Planet X, orbiting deep in the far reaches of our solar system. I recently published a [paper](https://iopscience.iop.org/article/10.3847/1538-3881/abfb6f/pdf) showing how Planet X can cause the outer solar system perihelion gap (an orbital feature of the most distant Trans-Neptunian Objects) and I am cuurrently working on applying the techniques I developed in that paper to constrain the orbit of Planet X. You can watch my presentation on this work from a recent conference [here](https://vimeo.com/545351933).
+My research is primarily focused on constraining planet location using orbital dynamics and observations. I am particularly interested in a hypothetical giant planet, Planet X, orbiting deep in the far reaches of our solar system. I recently published a [paper](https://iopscience.iop.org/article/10.3847/1538-3881/abfb6f) showing how Planet X can cause the outer solar system perihelion gap (an orbital feature of the most distant Trans-Neptunian Objects; TNOs) and I am cuurrently working on applying the techniques I developed in that paper to constrain the orbit of Planet X. You can watch my presentation on this work from a recent conference [here](https://vimeo.com/545351933).
+
+I am also developing a technique for optimizing revisit cadences for directly imaged exoplanets. This will save time for planet characterization that would have otherwise been used for orbit determination. A paper detailing the specifics of this work is in progress. Additional projects I am involved with include:
+- The Deep Ecliptic Exploration Project (DEEP) - an observation survey set to discover thousands of new TNOs
+- Constraining the space weathering rate of asteroid families via spectral slope modeling
+- Searching for surface features on large TNOs using the Large Binocular Telescope (PI)
+- The Legacy Survey of Space and Time Solar System Science Collaboration
+- Follow up observation for discoveries of new distant TNOs and objects showing cometary activity
 
