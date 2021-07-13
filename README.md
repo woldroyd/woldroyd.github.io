@@ -1,4 +1,4 @@
-# Will Oldroyd
+<img src="picture.jpg"/>
 
 
 ## Welcome to GitHub Pages
